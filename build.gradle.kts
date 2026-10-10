@@ -8,3 +8,4 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.jvm) apply false
     kotlin("plugin.serialization") version "2.1.0" apply false
 }
+
